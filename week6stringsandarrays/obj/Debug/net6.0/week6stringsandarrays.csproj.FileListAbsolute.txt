@@ -1,0 +1,15 @@
+C:\Users\monster\source\repos\week6stringsandarrays\week6stringsandarrays\bin\Debug\net6.0\week6stringsandarrays.exe
+C:\Users\monster\source\repos\week6stringsandarrays\week6stringsandarrays\bin\Debug\net6.0\week6stringsandarrays.deps.json
+C:\Users\monster\source\repos\week6stringsandarrays\week6stringsandarrays\bin\Debug\net6.0\week6stringsandarrays.runtimeconfig.json
+C:\Users\monster\source\repos\week6stringsandarrays\week6stringsandarrays\bin\Debug\net6.0\week6stringsandarrays.dll
+C:\Users\monster\source\repos\week6stringsandarrays\week6stringsandarrays\bin\Debug\net6.0\week6stringsandarrays.pdb
+C:\Users\monster\source\repos\week6stringsandarrays\week6stringsandarrays\obj\Debug\net6.0\week6stringsandarrays.csproj.AssemblyReference.cache
+C:\Users\monster\source\repos\week6stringsandarrays\week6stringsandarrays\obj\Debug\net6.0\week6stringsandarrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monster\source\repos\week6stringsandarrays\week6stringsandarrays\obj\Debug\net6.0\week6stringsandarrays.AssemblyInfoInputs.cache
+C:\Users\monster\source\repos\week6stringsandarrays\week6stringsandarrays\obj\Debug\net6.0\week6stringsandarrays.AssemblyInfo.cs
+C:\Users\monster\source\repos\week6stringsandarrays\week6stringsandarrays\obj\Debug\net6.0\week6stringsandarrays.csproj.CoreCompileInputs.cache
+C:\Users\monster\source\repos\week6stringsandarrays\week6stringsandarrays\obj\Debug\net6.0\week6stringsandarrays.dll
+C:\Users\monster\source\repos\week6stringsandarrays\week6stringsandarrays\obj\Debug\net6.0\refint\week6stringsandarrays.dll
+C:\Users\monster\source\repos\week6stringsandarrays\week6stringsandarrays\obj\Debug\net6.0\week6stringsandarrays.pdb
+C:\Users\monster\source\repos\week6stringsandarrays\week6stringsandarrays\obj\Debug\net6.0\week6stringsandarrays.genruntimeconfig.cache
+C:\Users\monster\source\repos\week6stringsandarrays\week6stringsandarrays\obj\Debug\net6.0\ref\week6stringsandarrays.dll
